@@ -5,8 +5,10 @@ This is my take on the classic 'PONG!' game.
 
 If you just want the executable build, see the folder "Build".
 
-If you want to edit this game, please ensure you have the "Pygame" library extention of Python installed.
+If you want to edit this game, please ensure you have the "Pygame" library extension of Python installed.
 
-That is all!
+(Also, your outfit looks amazing today!)
+
+That is all! 
 
 -Cheers! |n_n|
