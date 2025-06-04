@@ -1,0 +1,7 @@
+I coded this in Python using pygame in visual studio code.
+
+I had to move the directory to this specific folder for the game to work.
+
+The actual game file is called "Pong.py".
+
+-Cheers n_n
