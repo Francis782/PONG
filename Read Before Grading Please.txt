@@ -1,0 +1,11 @@
+I coded this in Python using pygame in visual studio code.
+
+I had to move the directory to this specific folder for the source code to work.
+
+The actual source code for the game is located in this directory and is called "Pong.py".
+
+If you want the executable file its located in the following path (please don't move it or else it'll break):
+
+"A08\executable_build\Pong.exe"
+
+-Cheers n_n
